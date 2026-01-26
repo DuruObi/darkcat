@@ -1,28 +1,25 @@
-![CI](https://github.com/DuruObi/darkcat/actions/workflows/ci.yml/badge.svg)
 # 🐈‍⬛ DarkCat
 
-DarkCat is a terminal-based developer automation tool designed to scaffold projects, manage environments, and speed up development workflows.
+**DarkCat** is a terminal-based developer automation tool designed to help you scaffold projects, add tooling, and bootstrap environments faster — all from one CLI.
 
-## Features
-- Interactive CLI
-- Project scaffolding (Web & API)
-- Wizard mode for one-command setup
-- Docker automation
-- Environment template generation
-- System diagnostics
-- GitHub Actions CI
+Built for speed. Designed for control.
 
-## Installation
+---
+
+## ✨ Features
+
+- ⚡ Interactive CLI commands
+- 🧩 Dynamic project templates (Web & API)
+- 🪄 Wizard mode for one-command setup
+- 🐳 Docker automation
+- 🔐 Environment variable templates
+- 🩺 System diagnostics (`doctor`)
+- 🔖 Versioned releases
+- 🤖 GitHub Actions CI
+
+---
+
+## 📦 Installation
 
 ```bash
 pip install darkcat
-
-darkcat --help
-darkcat wizard
-darkcat init
-darkcat doctor
-
-
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
