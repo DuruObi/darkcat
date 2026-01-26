@@ -23,3 +23,6 @@ Built for speed. Designed for control.
 
 ```bash
 pip install darkcat
+
+[![PyPI](https://img.shields.io/pypi/v/darkcat.svg)](https://pypi.org/project/darkcat/)
+[![CI](https://github.com/OEDX-DIGITAL/darkcat/actions/workflows/ci.yml/badge.svg)](https://github.com/OEDX-DIGITAL/darkcat/actions/workflows/ci.yml)
