@@ -1,7 +1,9 @@
+LICENSE
 README.md
 setup.py
 darkcat/__init__.py
 darkcat/cli.py
+darkcat/config.py
 darkcat/version.py
 darkcat.egg-info/PKG-INFO
 darkcat.egg-info/SOURCES.txt
