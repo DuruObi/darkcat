@@ -1,3 +1,4 @@
+![CI](https://github.com/DuruObi/darkcat/actions/workflows/ci.yml/badge.svg)
 # Web Project
 # 🐈‍⬛ DarkCat CLI v0.3
 
