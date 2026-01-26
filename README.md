@@ -1,3 +1,5 @@
+[![PyPI](https://img.shields.io/pypi/v/darkcat.svg)](https://pypi.org/project/darkcat/)
+[![CI](https://github.com/OEDX-DIGITAL/darkcat/actions/workflows/ci.yml/badge.svg)](https://github.com/OEDX-DIGITAL/darkcat/actions/workflows/ci.yml)
 # 🐈‍⬛ DarkCat
 
 **DarkCat** is a terminal-based developer automation tool designed to help you scaffold projects, add tooling, and bootstrap environments faster — all from one CLI.
