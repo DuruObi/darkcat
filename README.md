@@ -1,20 +1,27 @@
 ![CI](https://github.com/DuruObi/darkcat/actions/workflows/ci.yml/badge.svg)
-# Web Project
-# 🐈‍⬛ DarkCat CLI v0.3
+# 🐈‍⬛ DarkCat
 
-Terminal-based developer automation tool by OEDX DIGITAL.
+DarkCat is a terminal-based developer automation tool designed to scaffold projects, manage environments, and speed up development workflows.
 
 ## Features
-- Interactive project scaffolding (web/api)
-- Dynamic templates
+- Interactive CLI
+- Project scaffolding (Web & API)
+- Wizard mode for one-command setup
 - Docker automation
-- Env template generation
+- Environment template generation
 - System diagnostics
-- Wizard mode
+- GitHub Actions CI
 
 ## Installation
+
 ```bash
-pip install -e .
+pip install darkcat
+
+darkcat --help
+darkcat wizard
+darkcat init
+darkcat doctor
+
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
