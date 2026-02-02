@@ -1,14 +1,9 @@
 # Changelog
 
-## v1.0.0 — DarkCat MVP
-
+## v5.0.0 — Major Developer Upgrade
 ### Added
-- Interactive CLI commands
-- Dynamic project templates (web & API)
-- Wizard mode for guided project setup
-- Docker automation
-- Environment template generation
-- System diagnostics (doctor)
-- Version flag (`--version`)
-- GitHub Actions CI/CD
-- PyPI installable
+- test → run project test suites (Python, Node)
+- lint → run linters automatically
+- build → compile project artifacts
+- deploy → deploy to staging/production
+- update → update DarkCat CLI
