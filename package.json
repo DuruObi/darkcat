@@ -1,0 +1,12 @@
+{
+  "name": "MyWebApp",
+  "version": "1.0.0",
+  "type": "module",
+  ...
+}
+
+{
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}

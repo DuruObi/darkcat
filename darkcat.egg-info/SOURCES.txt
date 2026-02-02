@@ -13,7 +13,12 @@ darkcat.egg-info/requires.txt
 darkcat.egg-info/top_level.txt
 darkcat/commands/__init__.py
 darkcat/commands/add.py
+darkcat/commands/build.py
+darkcat/commands/deploy.py
 darkcat/commands/doctor.py
 darkcat/commands/init.py
+darkcat/commands/lint.py
+darkcat/commands/test.py
+darkcat/commands/update.py
 darkcat/commands/wizard.py
 darkcat/utils/__init__.py

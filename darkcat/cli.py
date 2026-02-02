@@ -3,6 +3,11 @@ import click
 import importlib
 import pkgutil
 
+from darkcat.commands.test import test
+from darkcat.commands.lint import lint
+from darkcat.commands.build import build
+from darkcat.commands.deploy import deploy
+from darkcat.commands.update import update
 from darkcat.version import __version__
 from darkcat.commands.init import init
 from darkcat.commands.add import add
@@ -21,6 +26,11 @@ def cli():
     pass
 
 # Core commands
+cli.add_command(test)
+cli.add_command(lint)
+cli.add_command(build)
+cli.add_command(deploy)
+cli.add_command(update)
 cli.add_command(init)
 cli.add_command(add)
 cli.add_command(doctor)
